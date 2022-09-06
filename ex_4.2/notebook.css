@@ -1,0 +1,40 @@
+table {
+    border: 1px solid black;
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+thead tr:first-child {
+    font-weight: 800;
+    background-color: skyblue;
+    vertical-align: top;
+    text-align: center;
+}
+thead td:not(:first-child) {
+    font-size: 20px;
+}
+td:first-child {
+    font-weight: 800;
+}
+td {
+    text-align: center;
+    border: 1px solid black;
+}
+tbody td:not(:first-child) {
+    width: 110px;
+    height: 110px;
+}
+.pool {
+    background-color: pink;
+}
+.sport {
+    background-color: rgb(91, 91, 155);
+}
+.text {
+    font-weight: 800;
+}
+.red-group {
+    display: block;
+    font-weight: 800;
+    font-size: 15px;
+    color: red;
+}

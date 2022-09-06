@@ -1,0 +1,26 @@
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 100px;
+}
+.title:visited {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+.gray {
+  color: gray;
+}
+.blue {
+  color: skyblue;
+}
+.all {
+  color: green;
+  text-align: center;
+}
+span {
+  font-size: 15px;
+}

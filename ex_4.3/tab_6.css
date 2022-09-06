@@ -1,0 +1,13 @@
+.text {
+    background-image: url(1618428406_12-funart_pro-p-oboi-fon-salatovii-fon-12.jpg);
+    margin: 30px 400px;
+}
+.text div {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 3px 15px;
+}
+.text div:nth-child(even) {
+   color: red;
+}

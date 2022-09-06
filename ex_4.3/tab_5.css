@@ -1,0 +1,26 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 25px;
+  margin: 30px auto;
+}
+td {
+  border: 1px solid black;
+  width: 75px;
+  padding: 2px 5px;
+}
+.col-1 {
+  background: linear-gradient(to right, pink 20%, transparent 10%);
+}
+.col-2 {
+  background: linear-gradient(to right, purple 20%, transparent 10%);
+    
+}
+.col-3 {
+  background: linear-gradient( to right, yellow 20%, transparent 10%);
+    
+}
+.col-4 {
+  background: linear-gradient(to right, green 20%, transparent 10%);
+}
+  

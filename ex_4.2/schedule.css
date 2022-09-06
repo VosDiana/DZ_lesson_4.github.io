@@ -1,0 +1,38 @@
+tbody {
+  font-size: 25px;
+}
+.schedule {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    color: blue;
+}
+h3 {
+    font-style: italic;
+    font-size: 30px;
+    color: brown;
+}
+.days {
+    width: 350wpx;
+    margin: 10px auto;
+}
+.days:last-child {
+    margin-left: 60%;
+}
+td {
+    padding: 5px;
+}
+td:first-child {
+    font-style: italic;
+    font-weight: 700;
+    color: red;
+    width: 170px;
+}
+span {
+    margin-left: 30px;
+    color: rgb(80, 16, 16);
+}
